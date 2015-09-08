@@ -1,6 +1,6 @@
 I hesitated
-before untying the bow
-that bound this book together.
+before unforking the commit
+that bound this git together.
 
 A black book:
 ALBUMS CA. AGRIPPA
